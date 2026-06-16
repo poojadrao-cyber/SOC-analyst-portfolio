@@ -13,6 +13,7 @@ ECE Graduate (2025) passionate about Cybersecurity, SOC Operations, Threat Detec
 - Splunk
 - Wazuh
 - Python Basics
+- Crowdstrike
 
 ## Projects
 
