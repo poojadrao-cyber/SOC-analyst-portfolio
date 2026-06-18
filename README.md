@@ -18,7 +18,7 @@ ECE Graduate (2025) passionate about Cybersecurity, SOC Operations, Threat Detec
 ## Projects
 
 ### Network Traffic Analysis using Wireshark
-Status: In Progress
+Status: Completed
 
 ### Vulnerability Assessment using Nmap
 Status: In Progress
